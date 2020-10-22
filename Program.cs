@@ -1,6 +1,6 @@
 ﻿using System;
 /**
-Name: 
+Name: Jacob C.
 Date of completion:
 
 Please be sure to comment your code - provide a comment for each structure use in 
