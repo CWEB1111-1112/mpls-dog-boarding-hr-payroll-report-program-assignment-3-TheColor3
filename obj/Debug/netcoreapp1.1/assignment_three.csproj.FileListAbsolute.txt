@@ -1,0 +1,8 @@
+C:\Users\crajacr\OneDrive - Dunwoody College of Technology\Desktop\CWEB1112 Master\1112Assignment3\bin\Debug\netcoreapp1.1\assignment_three.deps.json
+C:\Users\crajacr\OneDrive - Dunwoody College of Technology\Desktop\CWEB1112 Master\1112Assignment3\bin\Debug\netcoreapp1.1\assignment_three.runtimeconfig.json
+C:\Users\crajacr\OneDrive - Dunwoody College of Technology\Desktop\CWEB1112 Master\1112Assignment3\bin\Debug\netcoreapp1.1\assignment_three.runtimeconfig.dev.json
+C:\Users\crajacr\OneDrive - Dunwoody College of Technology\Desktop\CWEB1112 Master\1112Assignment3\obj\Debug\netcoreapp1.1\assignment_three.AssemblyInfo.cs
+C:\Users\crajacr\OneDrive - Dunwoody College of Technology\Desktop\CWEB1112 Master\1112Assignment3\bin\Debug\netcoreapp1.1\assignment_three.dll
+C:\Users\crajacr\OneDrive - Dunwoody College of Technology\Desktop\CWEB1112 Master\1112Assignment3\bin\Debug\netcoreapp1.1\assignment_three.pdb
+C:\Users\crajacr\OneDrive - Dunwoody College of Technology\Desktop\CWEB1112 Master\1112Assignment3\obj\Debug\netcoreapp1.1\assignment_three.dll
+C:\Users\crajacr\OneDrive - Dunwoody College of Technology\Desktop\CWEB1112 Master\1112Assignment3\obj\Debug\netcoreapp1.1\assignment_three.pdb
